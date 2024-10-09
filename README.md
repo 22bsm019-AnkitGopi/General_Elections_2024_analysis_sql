@@ -9,7 +9,7 @@ The 2024 Lok Sabha elections were a significant event in India's political lands
 - Analysing the Election Dataset 
 - Indentifying the winning Candidates and partywise results
 
-## Dataset used
+## Dataset
 
 - dataset link:**[Election Dataset](https://drive.google.com/drive/folders/1D8_AHG6Zi5akatOsgg5fXb_UDQqTTSZR?usp=drive_link)
 
